@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋孔義
-#+DATE: 2015-09-23 09:40:19
-#+PROPERTY: JUAN 11
+#+DATE: 2015-08-24 22:16:17.830677
+#+PROPERTY: ID KR1e0088
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十一
 <pb:KR1e0088_WYG_011-1a>¶
 欽定四庫全書¶
 　春秋孔義卷十一　　　　明　髙攀龍　撰¶
@@ -362,4 +364,3 @@
 　終世無犯定公薨而三桓復唘釁矣元年伐邾二年¶
 　取其田七年俘其君矣¶
 　春秋孔義卷十一¶
-
